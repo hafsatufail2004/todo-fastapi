@@ -1,3 +1,3 @@
 # Fastapi 
 
-## this repo conatain todo api made using fastapi
+## This repo contain todo api made using fastapi
